@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-seven-continents/static/css/main.9abb5c17.chunk.css",
-    "main.js": "/the-seven-continents/static/js/main.038262a4.chunk.js",
-    "main.js.map": "/the-seven-continents/static/js/main.038262a4.chunk.js.map",
+    "main.js": "/the-seven-continents/static/js/main.87f16ea5.chunk.js",
+    "main.js.map": "/the-seven-continents/static/js/main.87f16ea5.chunk.js.map",
     "runtime-main.js": "/the-seven-continents/static/js/runtime-main.b2079515.js",
     "runtime-main.js.map": "/the-seven-continents/static/js/runtime-main.b2079515.js.map",
     "static/js/2.84608961.chunk.js": "/the-seven-continents/static/js/2.84608961.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b2079515.js",
     "static/js/2.84608961.chunk.js",
     "static/css/main.9abb5c17.chunk.css",
-    "static/js/main.038262a4.chunk.js"
+    "static/js/main.87f16ea5.chunk.js"
   ]
 }
